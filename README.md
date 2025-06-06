@@ -6,7 +6,7 @@
 
 👌 La lengua de señas es un medio de comunicación visual y gestual utilizado por personas sordas o con discapacidad auditiva para expresar y recibir información. Al proporcionar un código de lenguaje de señas, se busca promover la inclusión social y la participación activa de las personas sordas en la sociedad.
 
-![Imagen de discapacidad](https://www.techtitute.com/techtitute/cursos/00143994/recursos/banner/discapacidad-auditiva-portada.jpg)
+![Imagen de discapacidad](https://programacionpython80889555.wordpress.com/wp-content/uploads/2019/11/iconcon-e1574168538805.png?w=752)
 
 ## Tecnologías Utilizadas
 
