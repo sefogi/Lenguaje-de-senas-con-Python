@@ -10,7 +10,7 @@
 
 ## Tecnologías Utilizadas
 
-- Python
+- Python 3.11.0
 - OpenCV
 - MediaPipe
 - Scikit-learn (para SVM)
